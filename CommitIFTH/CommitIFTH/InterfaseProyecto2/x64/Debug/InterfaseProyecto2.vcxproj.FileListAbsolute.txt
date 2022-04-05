@@ -1,0 +1,41 @@
+C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.AssemblyReference.cache
+C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.MyForm.resources
+C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.GenerateResource.cache
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.MyForm.resources
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.GenerateResource.cache
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Biblioteca.resources
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Centro Estudiantil.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitCodigoBib\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.AssemblyReference.cache
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitCodigoBib\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitCodigoBib\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Biblioteca.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitCodigoBib\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Centro Estudiantil.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitCodigoBib\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.MyForm.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitCodigoBib\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.GenerateResource.cache
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitCodigoBib\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.AreasL.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFunciones\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.AssemblyReference.cache
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFunciones\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFunciones\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.AreasL.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFunciones\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Biblioteca.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFunciones\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Capilla.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFunciones\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Centro Estudiantil.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFunciones\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.MyForm.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFunciones\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.GenerateResource.cache
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFuncion\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.AssemblyReference.cache
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFuncion\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFuncion\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.AreasL.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFuncion\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Biblioteca.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFuncion\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Capilla.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFuncion\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Centro Estudiantil.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFuncion\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.MyForm.resources
+C:\Users\JAFYF\Desktop\UNIS\2022\3er Semestre\Clases\Informática 2\Unidad 3\CommitFuncion\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.GenerateResource.cache
+C:\Users\Pc Andres\Downloads\CommitIFTH\CommitIFTH\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.AssemblyReference.cache
+C:\Users\Pc Andres\Downloads\CommitIFTH\CommitIFTH\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Pc Andres\Downloads\CommitIFTH\CommitIFTH\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.AreasL.resources
+C:\Users\Pc Andres\Downloads\CommitIFTH\CommitIFTH\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Biblioteca.resources
+C:\Users\Pc Andres\Downloads\CommitIFTH\CommitIFTH\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Capilla.resources
+C:\Users\Pc Andres\Downloads\CommitIFTH\CommitIFTH\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Centro Estudiantil.resources
+C:\Users\Pc Andres\Downloads\CommitIFTH\CommitIFTH\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.MyForm.resources
+C:\Users\Pc Andres\Downloads\CommitIFTH\CommitIFTH\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.GenerateResource.cache
