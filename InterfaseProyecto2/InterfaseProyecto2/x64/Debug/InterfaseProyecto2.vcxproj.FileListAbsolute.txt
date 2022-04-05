@@ -1,0 +1,4 @@
+C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.AssemblyReference.cache
+C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.MyForm.resources
+C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.GenerateResource.cache
