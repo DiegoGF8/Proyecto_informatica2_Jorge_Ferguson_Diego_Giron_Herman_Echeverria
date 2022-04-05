@@ -1,3 +1,7 @@
-﻿  MyForm.cpp
-  AreasAL.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
-  InterfaseProyecto2.vcxproj -> C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.exe
+﻿  Biblioteca.cpp
+  Centro Estudiantil.cpp
+  MyForm.cpp
+  Sector.cpp
+  Generating Code...
+  Biblioteca.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  InterfaseProyecto2.vcxproj -> C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.exe

@@ -18,16 +18,13 @@
     <ClCompile Include="MyForm.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="EdificioBiblioteca.cpp">
+    <ClCompile Include="Sector.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="EdificioCE.cpp">
+    <ClCompile Include="Biblioteca.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Capilla.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
-    <ClCompile Include="AreasAL.cpp">
+    <ClCompile Include="Centro Estudiantil.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
@@ -35,16 +32,13 @@
     <ClInclude Include="MyForm.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="EdificioBiblioteca.h">
+    <ClInclude Include="Sector.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="EdificioCE.h">
+    <ClInclude Include="Biblioteca.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="Capilla.h">
-      <Filter>Archivos de encabezado</Filter>
-    </ClInclude>
-    <ClInclude Include="AreasAL.h">
+    <ClInclude Include="Centro Estudiantil.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>

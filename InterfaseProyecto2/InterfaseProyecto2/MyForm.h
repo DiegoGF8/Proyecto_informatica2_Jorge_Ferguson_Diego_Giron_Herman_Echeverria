@@ -65,36 +65,40 @@ namespace InterfaseProyecto2 {
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(105, 59);
+			this->button1->Location = System::Drawing::Point(140, 73);
+			this->button1->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button1->Name = L"button1";
-			this->button1->Size = System::Drawing::Size(75, 23);
+			this->button1->Size = System::Drawing::Size(100, 28);
 			this->button1->TabIndex = 0;
 			this->button1->Text = L"Biblioteca";
 			this->button1->UseVisualStyleBackColor = true;
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(267, 59);
+			this->button2->Location = System::Drawing::Point(356, 73);
+			this->button2->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button2->Name = L"button2";
-			this->button2->Size = System::Drawing::Size(108, 23);
+			this->button2->Size = System::Drawing::Size(144, 28);
 			this->button2->TabIndex = 1;
 			this->button2->Text = L"Centro Estudiantil";
 			this->button2->UseVisualStyleBackColor = true;
 			// 
 			// button3
 			// 
-			this->button3->Location = System::Drawing::Point(186, 59);
+			this->button3->Location = System::Drawing::Point(248, 73);
+			this->button3->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button3->Name = L"button3";
-			this->button3->Size = System::Drawing::Size(75, 23);
+			this->button3->Size = System::Drawing::Size(100, 28);
 			this->button3->TabIndex = 2;
 			this->button3->Text = L"Capilla";
 			this->button3->UseVisualStyleBackColor = true;
 			// 
 			// button4
 			// 
-			this->button4->Location = System::Drawing::Point(381, 59);
+			this->button4->Location = System::Drawing::Point(508, 73);
+			this->button4->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button4->Name = L"button4";
-			this->button4->Size = System::Drawing::Size(75, 23);
+			this->button4->Size = System::Drawing::Size(100, 28);
 			this->button4->TabIndex = 3;
 			this->button4->Text = L"Areas Libres";
 			this->button4->UseVisualStyleBackColor = true;
@@ -102,22 +106,24 @@ namespace InterfaseProyecto2 {
 			// pictureBox1
 			// 
 			this->pictureBox1->ImageLocation = L"https://sertv.gob.pa/crisolfm/wp-content/uploads/sites/2/2019/10/UNIS.png";
-			this->pictureBox1->Location = System::Drawing::Point(123, 214);
+			this->pictureBox1->Location = System::Drawing::Point(164, 263);
+			this->pictureBox1->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->pictureBox1->Name = L"pictureBox1";
-			this->pictureBox1->Size = System::Drawing::Size(700, 263);
+			this->pictureBox1->Size = System::Drawing::Size(933, 324);
 			this->pictureBox1->TabIndex = 4;
 			this->pictureBox1->TabStop = false;
 			// 
 			// MyForm
 			// 
-			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
+			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(937, 610);
+			this->ClientSize = System::Drawing::Size(1249, 751);
 			this->Controls->Add(this->button4);
 			this->Controls->Add(this->button3);
 			this->Controls->Add(this->button2);
 			this->Controls->Add(this->button1);
 			this->Controls->Add(this->pictureBox1);
+			this->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->Name = L"MyForm";
 			this->Text = L"Dirrectorio de Campus Unis 2022";
 			this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
@@ -127,8 +133,11 @@ namespace InterfaseProyecto2 {
 		}
 #pragma endregion
 	private: System::Void MyForm_Load(System::Object^ sender, System::EventArgs^ e) {
+
 	}
 	private: System::Void pictureBox1_Click(System::Object^ sender, System::EventArgs^ e) {
+
 	}
 };
 }
+

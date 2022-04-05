@@ -8,4 +8,6 @@ int main(array<String^>^ args) {
 	InterfaseProyecto2::MyForm form;
 	Application::Run(% form);
 	return 0;
+
+	
 }

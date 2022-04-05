@@ -120,22 +120,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AreasAL.cpp" />
-    <ClCompile Include="Capilla.cpp" />
-    <ClCompile Include="EdificioBiblioteca.cpp" />
-    <ClCompile Include="EdificioCE.cpp" />
+    <ClCompile Include="Biblioteca.cpp" />
+    <ClCompile Include="Centro Estudiantil.cpp" />
     <ClCompile Include="MyForm.cpp" />
+    <ClCompile Include="Sector.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AreasAL.h" />
-    <ClInclude Include="Capilla.h" />
-    <ClInclude Include="EdificioBiblioteca.h" />
-    <ClInclude Include="EdificioCE.h" />
+    <ClInclude Include="Biblioteca.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Centro Estudiantil.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
     <ClInclude Include="MyForm.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="Sector.h" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Biblioteca.resx">
+      <DependentUpon>Biblioteca.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Centro Estudiantil.resx">
+      <DependentUpon>Centro Estudiantil.h</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MyForm.resx">
       <DependentUpon>MyForm.h</DependentUpon>
     </EmbeddedResource>

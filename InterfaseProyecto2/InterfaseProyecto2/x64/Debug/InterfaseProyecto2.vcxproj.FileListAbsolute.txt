@@ -2,3 +2,9 @@ C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x
 C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.SuggestedBindingRedirects.cache
 C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.MyForm.resources
 C:\Users\Pc Andres\Desktop\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.GenerateResource.cache
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.MyForm.resources
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.vcxproj.GenerateResource.cache
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Biblioteca.resources
+C:\Users\DELL\Documents\Semestre 3 2022\Informatica 2\InterfaseProyecto2\InterfaseProyecto2\x64\Debug\InterfaseProyecto2.Centro Estudiantil.resources
